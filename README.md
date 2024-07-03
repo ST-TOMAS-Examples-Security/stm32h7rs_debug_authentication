@@ -1,4 +1,4 @@
-# STM32H7RSWorkShop-Debug authentication demo
+# STM32H7RS-Debug authentication demo
 
 
 The example will guide you through a board provisionning with ST default credential, close the debug port of the board. Then using the debug authentication feature with certificate, we will re-open the debugging link for debuging and also for triggering a platform regression.  
